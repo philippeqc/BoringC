@@ -1,5 +1,5 @@
 pipeline {
-  agent any 
+  agent { label 'fizzbuzz' } 
   stages {
     stage('First Stage') {
       steps {
