@@ -1,0 +1,3 @@
+[submodule "BoringCSub"]
+	path = BoringCSub
+	url = https://github.com/philippeqc/BoringCSub.git
